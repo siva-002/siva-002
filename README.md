@@ -18,12 +18,17 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 Here are some of my notable projects:
 
 1. **Career Compass**
-   - Description:
+   - **Description**:
       - It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
-   - *Chatting Module*: Users can find individuals with similar interests and clarify their doubts.
-   - *Aptitude Module*: Users can attempt quizzes, access study materials, and enhance their knowledge.
-   - *Discussion Forum*: Users can post their questions, which can be answered by anyone.
-   - *Event Module*: Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
+   - **Modules**
+      - Chatting Module:
+         - Users can find individuals with similar interests and clarify their doubts.
+      - Aptitude Module:
+         - Users can attempt quizzes, access study materials, and enhance their knowledge.
+      - Discussion Forum:
+         - Users can post their questions, which can be answered by anyone.
+      - Event Module:
+         - Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
    - **Tools Used**:
      - MERN STACK (MONGO DB, EXPRESS JS, REACT JS, NODE JS)
    - [link](https://github.com/siva-002/Career-Compass)
