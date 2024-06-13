@@ -15,7 +15,7 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 ## Projects
 
 Here are some of my notable projects:
-
+<div style="background:"yellow">
 1. **Career Compass**
    - **Description**:
       - It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
@@ -64,7 +64,7 @@ Here are some of my notable projects:
       - [Link](https://github.com/siva-002/REACT_TASK_COMPANY_INVENTORY)
   
 
-
+</div>
 ## Contact Me
 
 - **Email:** [vsivakumar971@gmail.com](mailto:vsivakumar971@gmail.com)
