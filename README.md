@@ -20,7 +20,7 @@ Here are some of my notable projects:
 1. **Career Compass**
    - Description:
       - It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
-   - **Chatting Module*: Users can find individuals with similar interests and clarify their doubts.
+   - *Chatting Module*: Users can find individuals with similar interests and clarify their doubts.
    - *Aptitude Module*: Users can attempt quizzes, access study materials, and enhance their knowledge.
    - *Discussion Forum*: Users can post their questions, which can be answered by anyone.
    - *Event Module*: Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
@@ -32,13 +32,13 @@ Here are some of my notable projects:
    - Description:
       - It was my academic mini project developed to gather feedback from students regarding faculty performance. It includes modules of students and faculty.
    - **Tools Used**:
-   -   HTML
-   -   CSS
-   -   Bootstrap
-   -   JavaScript
-   -   MySQL
-   -   PHP
-   -  [Link](https://github.com/siva-002/FeedBackSystem)
+   - HTML
+   - CSS
+   - Bootstrap
+   - JavaScript
+   - MySQL
+   - PHP
+   - [Link](https://github.com/siva-002/FeedBackSystem)
 
 3. **Portfolio**
    - Description:It was my personal project which was developed using React.js.
