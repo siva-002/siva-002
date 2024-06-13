@@ -18,7 +18,8 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 Here are some of my notable projects:
 
 1. **Career Compass**
-   - Description: It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
+   - Description:
+      - It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
    - **Chatting Module*: Users can find individuals with similar interests and clarify their doubts.
    - *Aptitude Module*: Users can attempt quizzes, access study materials, and enhance their knowledge.
    - *Discussion Forum*: Users can post their questions, which can be answered by anyone.
@@ -28,15 +29,16 @@ Here are some of my notable projects:
    - [link](https://github.com/siva-002/Career-Compass)
 
 2. **Effective Feedback and Survey System for AURCM**
-   - Description: It was my academic mini project developed to gather feedback from students regarding faculty performance. It includes modules of students and faculty.
+   - Description:
+      - It was my academic mini project developed to gather feedback from students regarding faculty performance. It includes modules of students and faculty.
    - **Tools Used**:
-    - HTML
-    - CSS
-    - Bootstrap
-    - JavaScript
-    - MySQL
-    - PHP
-   - [Link](https://github.com/siva-002/FeedBackSystem)
+   -   HTML
+   -   CSS
+   -   Bootstrap
+   -   JavaScript
+   -   MySQL
+   -   PHP
+   -  [Link](https://github.com/siva-002/FeedBackSystem)
 
 3. **Portfolio**
    - Description:It was my personal project which was developed using React.js.
