@@ -32,12 +32,7 @@ Here are some of my notable projects:
    - Description:
       - It was my academic mini project developed to gather feedback from students regarding faculty performance. It includes modules of students and faculty.
    - **Tools Used**:
-   - HTML
-   - CSS
-   - Bootstrap
-   - JavaScript
-   - MySQL
-   - PHP
+   - HTML, CSS, Bootstrap, JavaScript, MySQL, PHP
    - [Link](https://github.com/siva-002/FeedBackSystem)
 
 3. **Portfolio**
