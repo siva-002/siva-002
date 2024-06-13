@@ -16,7 +16,7 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 
 Here are some of my notable projects:
 <div style="display: flex; ">
-    <div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 20px;width:200px">
         <h2><b>Career Compass</b></h2>
         <ul>
             <li><b>Description:</b>
@@ -36,7 +36,7 @@ Here are some of my notable projects:
             <li><b>Repository Link:</b> [link](https://github.com/siva-002/Career-Compass)</li>
         </ul>
     </div>
-    <div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 20px;width:200px">
         <h2><b>Effective Feedback and Survey System for AURCM</b></h2>
         <ul>
             <li><b>Description:</b>
