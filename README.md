@@ -61,7 +61,7 @@ Here are some of my notable projects:
        - React Hook Form
        - React Query (React Tanstack)
        - JSON SERVER
-  - **Repository Link**:
+  -  **Repository Link**:
      - [Link](https://github.com/siva-002/REACT_TASK_COMPANY_INVENTORY)
   
 
