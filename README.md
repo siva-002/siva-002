@@ -15,7 +15,7 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 ## Projects
 
 Here are some of my notable projects:
-<div style="display:flex;">
+<div style="display:flex;flex-direction: row;">
     <div style="margin-bottom:20px;width:200px">
         <h2><b>Career Compass</b></h2>
         <ul>
