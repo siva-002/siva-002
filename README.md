@@ -21,14 +21,10 @@ Here are some of my notable projects:
    - **Description**:
       - It was my academic main project. It included major modules of real-time chatting, aptitude preparation, discussion forum, and event management.
    - **Modules**
-      - Chatting Module:
-         -Users can find individuals with similar interests and clarify their doubts.
-      - Aptitude Module:
-        -Users can attempt quizzes, access study materials, and enhance their knowledge.
-      - Discussion Forum:
-         - Users can post their questions, which can be answered by anyone.
-      - Event Module:
-         - Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
+      - Chatting Module: Users can find individuals with similar interests and clarify their doubts.
+      - Aptitude Module: Users can attempt quizzes, access study materials, and enhance their knowledge.
+      - Discussion Forum: Users can post their questions, which can be answered by anyone.
+      - Event Module: Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
    - **Tools Used**:
      - MERN STACK (MONGO DB, EXPRESS JS, REACT JS, NODE JS)
    - [link](https://github.com/siva-002/Career-Compass)
