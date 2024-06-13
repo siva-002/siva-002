@@ -10,7 +10,7 @@ Hello! I'm Sivakumar, a passionate web developer from Madurai and a 2024 CSE gra
 - **Programming Language:** Java
 - **Client Side Technologies :** HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT JS
 - **Server Side Technologies :** PHP, NODE JS, EXPRESS JS
-- **Tools:** GIT,FIREBASE, POSTMAN, XAMPP
+- **Tools:** GIT, FIREBASE, POSTMAN, XAMPP
 - **Databases:** MySQL, MongoDB
 
 ## Projects
@@ -23,13 +23,13 @@ Here are some of my notable projects:
    - *Aptitude Module*: Users can attempt quizzes, access study materials, and enhance their knowledge.
    - *Discussion Forum*: Users can post their questions, which can be answered by anyone.
    - *Event Module*: Users can submit details of events they know about or are organizing. After admin verification and approval, all users are notified about the event.
-     *Tools Used*:
+     **Tools Used**:
       - MERN STACK (MONGO DB, EXPRESS JS, REACT JS, NODE JS)
    - [link](https://github.com/siva-002/Career-Compass)
 
 2. **Effective Feedback and Survey System for AURCM**
    - Description: It was my academic mini project developed to gather feedback from students regarding faculty performance. It includes modules of students and faculty.
-    *Tools Used*:
+    **Tools Used**:
     - HTML
     - CSS
     - Bootstrap
@@ -41,10 +41,10 @@ Here are some of my notable projects:
 3. **Portfolio**
    - Description:It was my personal project which was developed using React.js.
    - *Key Features*:
-   - *Projects Showcase*: Displays detailed descriptions and demonstrations of my projects, including technologies used and outcomes achieved.
-   - *Skills Highlight*: Highlights my proficiency in various technologies such as React.js, CSS, JavaScript, and HTML through interactive elements and visually appealing design.
-   - *Education Section*: Provides information about my educational background.
-   - *Contact Information*: Offers multiple ways to contact me.
+   - *Projects Showcase*
+   - *Skills Highlight*
+   - *Education Section*.
+   - *Contact Information*
    - [Link](https://github.com/siva-002/PORTFOLIO-REACT)
      
 4. **Realtime Stock Tracking and Selling System**
